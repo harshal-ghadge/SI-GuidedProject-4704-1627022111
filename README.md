@@ -11,8 +11,7 @@ In `Flask/app.py` file on line 32 enter your IBM Watson API key
 4. DVS Hitesh Reddy (19BEC1066)
 
 ## Demo Video Link
-[demo vedio](https://drive.google.com/drive/folders/1gvNv9PHCTtM-xn4Zj05oNgZOS9dCNnkJ?usp=sharing
-https://drive.google.com/drive/folders/1gvNv9PHCTtM-xn4Zj05oNgZOS9dCNnkJ?usp=sharing)
+[demo vedio](https://drive.google.com/drive/folders/1gvNv9PHCTtM-xn4Zj05oNgZOS9dCNnkJ?usp=sharing)
 
 ## Project Drive Link
 [project files](https://drive.google.com/drive/folders/1PFQBYgnNgl9VfmS8vbrZi9v3yGYgmDDr)
